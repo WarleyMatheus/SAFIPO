@@ -1,0 +1,5 @@
+com\wmsoftware\safipo\Usuario.class
+com\wmsoftware\safipo\Login.class
+com\wmsoftware\safipo\conexaoSql.class
+com\wmsoftware\safipo\Cadastro.class
+com\wmsoftware\safipo\SAFIPO.class
